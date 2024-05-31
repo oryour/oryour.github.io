@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oryour.github.io/a/sitemap.html
+Sitemap: https://oryour.github.io/b/sitemap.html
+Sitemap: https://oryour.github.io/c/sitemap.html
+Sitemap: https://oryour.github.io/d/sitemap.html
